@@ -4,6 +4,8 @@ logo: [my fkn screenshot](/_imgs/me.jgp)
 email: salasraul96@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
  Join me in coming back to my best (some bad) times far from my Juaritos querido.
+ 
+baseurl: "/travelblog"
 
 # social links
 twitter_username: RaulMed656 # DO NOT include the @ character, or else the build will fail!
