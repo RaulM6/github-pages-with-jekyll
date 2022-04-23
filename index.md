@@ -9,4 +9,6 @@ More than an informative blog, this is my point of view, this is how a 26 years 
 
 Sit, tight your belt, relax, take your popcorns and travel with me to my memories.
 
+Okay.
+
 
