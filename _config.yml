@@ -16,8 +16,8 @@
 title: Travel stories
 author: Raul Medina
 email: salasraul96@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
- Join me in coming back to my best (some bad) times far from my Juaritos querido.
+description: >-  # this means to ignore newlines until "baseurl:"
+     Join me in coming back to my best (some bad) times far from my Juaritos querido.
  
 #baseurl: "/travelblog"
 
