@@ -1,5 +1,5 @@
 ---
-layout: Travel blog | Raul M.
+layout: default
 ---
 
 ## Bienvenidos, welcome, välkommen, tervetuloa, üdvözöllek, 환영합니다, bienvenue.
