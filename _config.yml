@@ -1,11 +1,11 @@
-title: Turku in a nutshell
+title: Travel stories
 author: Raúl Medina
 email: lavierulis@gmail.com
 theme: jekyll-theme-minimal
+logo: /me.png
 
 description: > # this means to ignore newlines until "baseurl:"
-  Here you will read a bad english attempt to describe what is living in Turku, Finland as Mexican.
-  More than an informative blog, this is my point of view, it's how a 26 years old Mexican from the north experiences the life.
+  Join me in coming back to my best (some bad) times far from my Juaritos querido.
   
 # social links
 twitter_username: RaulMed656 # DO NOT include the @ character, or else the build will fail!
