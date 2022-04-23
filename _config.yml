@@ -1,36 +1,30 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+title: Turku in a nutshell
+author: Raúl Medina
+email: lavierulis@gmail.com
+theme:  jekyll-theme-minimal
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Travel stories
-author: Raul Medina
-email: salasraul96@gmail.com
-description: >-  # this means to ignore newlines until "baseurl:"
-     Join me in coming back to my best (some bad) times far from my Juaritos querido.
- 
-#baseurl: "/travelblog"
-
+description: > # this means to ignore newlines until "baseurl:"
+  Here you will read a bad english attempt to describe what is living in Turku, Finland as Mexican.
+  More than an informative blog, this is my point of view, it's how a 26 years old Mexican from the north experiences the life.
+  
 # social links
 twitter_username: RaulMed656 # DO NOT include the @ character, or else the build will fail!
-github_username:  RaulM6 # DO NOT include the @ character, or else the build will fail!
-# logo: /me.png
+github_username:  RulisM # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-# Build settings
-#markdown: kramdown
-theme: jekyll-theme-minimal
-#thene: minima
-#plugins:
-   jekyll-feed
+
+title: Tu título genial
+author: Usuario GitHub
+email: tu-nombre@opendeusto.es
+description: > # this means to ignore newlines until "baseurl:"
+  Escribe una descripción estupenda para tu nuevo sitio aquí. Puedes editar esta línea
+  en _config.yml. Aparecerá en los metadatos de cabecera de tu documento (para los 
+  resultados de búsqueda de Google) y en la descripción del sitio de tu archivo feed.xml.
+
+# social links
+twitter_username: tu-usuario-twitter # NO incluyas el carácter @ character, ¡o la compilación fallará!
+github_username:  tu-usuario-github # NO incluyas el carácter @ character, ¡o la compilación fallará!
+
+show_excerpts: true # cámbialo a false para eliminar los extractos de la página principal
+theme: minima
