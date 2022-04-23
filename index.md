@@ -1,6 +1,7 @@
 ---
-title: Bienvenidos, welcome, välkommen, tervetuloa, üdvözöllek, 환영합니다, bienvenue.
+layout: default
 ---
+
 ### Bienvenidos, welcome, välkommen, tervetuloa, üdvözöllek, 환영합니다, bienvenue.
 
 Here you will read a bad english attempt to describe what is living (in turku so far) and traveling to some countries as a Mexican.
