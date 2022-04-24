@@ -9,7 +9,7 @@ More than an informative blog, this is my point of view, this is how a 26 years 
 
 Sit, tight your belt, relax, take your popcorns and travel back with me to my memories.
 
-1. [Turku, Finland](./_posts/Finland/2022-04-24-main.md)
+1. [Turku, Finland](./_posts/Finland/2022-01-17-finland.md)
 2. [Ensenada]
 3. [Copenhagen]
 4. [Madrid]
