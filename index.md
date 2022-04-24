@@ -8,3 +8,6 @@ Here you will read a bad english attempt to describe what is living (in turku so
 More than an informative blog, this is my point of view, this is how a 26 years old from the north of Mexico experiences meeting new people, new languages and new places.
 
 Sit, tight your belt, relax, take your popcorns and travel back with me to my memories.
+
+1. Turku [texts](./_posts/2022-04-22-my-first-blog-post.md)
+
