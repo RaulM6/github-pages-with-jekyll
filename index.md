@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Bienvenidos, welcome, välkommen, tervetuloa, üdvözöllek, 환영합니다, bienvenue.
+## Bienvenidos, welcome, välkommen, tervetuloa, üdvözöllek, 환영합니다, bienvenue, ආයුබෝවන්.
 
 Here you will read a bad english attempt to describe what is living (in turku so far) and traveling to some countries as a Mexican.
 More than an informative blog, this is my point of view, this is how a 26 years old from the north of Mexico experiences meeting new people, new languages and new places.
